@@ -47,4 +47,8 @@ build
 ios
 test
 web
+.metadata
+.vscode
+pubspec.lock
+README.md
 
