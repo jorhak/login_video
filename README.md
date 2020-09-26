@@ -4,7 +4,7 @@ _Se trata de colocar un video de fondo en nuestra App para darle un toque difere
 _esto se puede agregar segun lo vea conveniete el programador y dependiendo del_
 _area a la que va dirigido el proyecto_
 
-##IMAGEN DE LA APP 📸️
+## IMAGEN DE LA APP 📸️
 ![Imagen login](https://github.com/jorhak/login_video/blob/master/assets/20200926_095548.jpg)
 
 ### INSTALACIÓN 🔧
